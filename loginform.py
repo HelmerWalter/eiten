@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+ !/usr/bin/env*python
 import sys
 from argparse import ArgumentParser
 from collections import defaultdict
@@ -103,3 +103,4 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
+ 
